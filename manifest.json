@@ -2,5 +2,5 @@
   "name": "VPN Checker",
   "version": "1.0.0",
   "author": "ReduxFlakes",
-	"description": "Simple tool to check if there's an active VPN connection.",
+  "description": "Simple tool to check if there's an active VPN connection.",
 }
