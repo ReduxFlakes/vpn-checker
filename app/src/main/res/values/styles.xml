@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ThemeLight" parent="Theme.MaterialComponents.Light">
+        <item name="colorAccent">#3f51b5</item>
+        <item name="colorOnAccent">#fff</item>
+        <item name="colorPrimary">#3f51b5</item>
+        <item name="colorPrimaryDark">#002984</item>
+        <item name="textColor">#000000</item>
+        <item name="backgroundColor">#ffffff</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="popupTheme">@style/ThemeLight.PopupOverlay</item>
+        <item name="appbarTheme">@style/ThemeLight.AppBarOverlay</item>
+        <item name="toolbarTheme">@style/ToolbarStyleLight</item>
+    </style>
+
+    <style name="ThemeLight.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light" />
+
+    <style name="ThemeLight.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+
+    <style name="ToolbarStyleLight" parent="@style/ThemeOverlay.AppCompat"/>
+
+    <style name="ThemeDark" parent="Theme.MaterialComponents">
+        <item name="colorAccent">#8A92FA</item>
+        <item name="colorOnAccent">#000</item>
+        <item name="colorPrimary">#8A92FA</item>
+
+        <item name="colorPrimaryDark">#000000</item>
+
+        <item name="textColor">#ffffff</item>
+        <item name="backgroundColor">#1f1f1f</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="popupTheme">@style/Theme.PopupOverlay</item>
+        <item name="appbarTheme">@style/Theme.AppBarOverlay</item>
+        <item name="toolbarTheme">@style/ToolbarStyleDark</item>
+    </style>
+
+    <style name="Theme.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Dark" />
+
+    <style name="Theme.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+
+    <style name="ToolbarStyleDark" parent="ThemeOverlay.MaterialComponents.Light"/>
+
+</resources>

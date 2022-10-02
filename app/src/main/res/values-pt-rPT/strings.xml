@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">VPN Checker</string>
+    <string name="result_true">VPN Detetada</string>
+    <string name="result_false">VPN Não Detetada</string>
+    <string name="bt_check">Verificar</string>
+    <string name="menu_about">Sobre</string>
+    <string name="about_message">Versão 1.1\n\nSimples aplicação open source que verifica se há uma conexão VPN ativa usando o ConnectivityManager.\n\nDesenvolvido por Tiago Carmo (ReduxFlakes)</string>
+    <string name="diag_gosource_btn">Código Fonte</string>
+    <string name="diag_negative_btn">Cancelar</string>
+</resources>

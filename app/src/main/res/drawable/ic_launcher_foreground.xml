@@ -1,13 +1,20 @@
-<!-- drawable/server.xml -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
     android:height="108dp"
     android:viewportWidth="108"
-    android:viewportHeight="108">
-  <group android:scaleX="1.8414"
-      android:scaleY="1.8414"
-      android:translateX="31.9032"
-      android:translateY="31.9032">
-      <path android:fillColor="#FF6200EE" android:pathData="M4,1H20A1,1 0 0,1 21,2V6A1,1 0 0,1 20,7H4A1,1 0 0,1 3,6V2A1,1 0 0,1 4,1M4,9H20A1,1 0 0,1 21,10V14A1,1 0 0,1 20,15H4A1,1 0 0,1 3,14V10A1,1 0 0,1 4,9M4,17H20A1,1 0 0,1 21,18V22A1,1 0 0,1 20,23H4A1,1 0 0,1 3,22V18A1,1 0 0,1 4,17M9,5H10V3H9V5M9,13H10V11H9V13M9,21H10V19H9V21M5,3V5H7V3H5M5,11V13H7V11H5M5,19V21H7V19H5Z" />
+    android:viewportHeight="108"
+    android:tint="#E03636">
+  <group android:scaleX="2.1141"
+      android:scaleY="2.1141"
+      android:translateX="28.6308"
+      android:translateY="28.6308">
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M11.71,10.33C11.01,8.34 9.11,7 7,7c-2.76,0 -5,2.24 -5,5s2.24,5 5,5c2.11,0 4.01,-1.34 4.71,-3.33l0.23,-0.67H18v4h2v-4h2v-2H11.94l-0.23,-0.67zM7,15c-1.65,0 -3,-1.35 -3,-3s1.35,-3 3,-3 3,1.35 3,3 -1.35,3 -3,3z"
+        android:strokeAlpha="0.3"
+        android:fillAlpha="0.3"/>
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M7,5c-3.86,0 -7,3.14 -7,7s3.14,7 7,7c2.72,0 5.17,-1.58 6.32,-4L16,15v4h6v-4h2L24,9L13.32,9C12.17,6.58 9.72,5 7,5zM22,13h-2v4h-2v-4h-6.06l-0.23,0.67C11.01,15.66 9.11,17 7,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5c2.11,0 4.01,1.34 4.71,3.33l0.23,0.67L22,11v2zM7,9c-1.65,0 -3,1.35 -3,3s1.35,3 3,3 3,-1.35 3,-3 -1.35,-3 -3,-3zM7,13c-0.55,0 -1,-0.45 -1,-1s0.45,-1 1,-1 1,0.45 1,1 -0.45,1 -1,1z"/>
   </group>
 </vector>
