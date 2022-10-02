@@ -8,6 +8,6 @@
 [![Downloads](https://img.shields.io/github/downloads/ReduxFlakes/vpn-checker/total)](https://github.com/ReduxFlakes/vpn-checker/releases)
 [![Version](https://img.shields.io/github/v/release/ReduxFlakes/vpn-checker?display_name=tag)](https://github.com/ReduxFlakes/vpn-checker/releases/latest)
 
-Simple open source app to check if there's an active VPN connection using the ConnectivityManager.
+Simple open source app to check if there's an active VPN connection using the ConnectivityManager
 
 </div>
